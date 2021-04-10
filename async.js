@@ -13,4 +13,4 @@ numberadder(1,4)
     })
 
 // using online resources while learning as well, 
-// just getting into async await into more detail! I will master Javascript within the month neforebfore moving on
+// just getting into async await into more detail! I will master Javascript within the month neforebfore moving onn
